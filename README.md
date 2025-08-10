@@ -9,3 +9,10 @@ This repository serves as:
 
 - A **learning journal** for tracking my growth in FX animation
 - A **portfolio-in-progress** of experiments, exercises, and resources
+
+
+## Math files
+
+This repository contains a bunch of files explaining basic math concepts:
+- Bilinear Patch and closest point query: we describe what a Bilinear Patch is and write a closest point query (that outperforms Houdini's xyzdist() using Newton iterations)
+- Implementation of Spectral Clustering algorithm by looking at the eigenvalues of the Graph Laplacian of a ad-hoc nearest-neighbor based graph that we create from the dataset
